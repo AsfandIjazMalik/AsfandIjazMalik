@@ -14,4 +14,4 @@ I’m passionate about machine learning and AI and aim to develop impactful Pyth
 I am actively seeking internship opportunities to apply my skills in real-world projects and contribute to data analysis, model building, and algorithm optimization.
 <br>
 
-📫 How to reach me: asfandijazmalik@gmail.com <br>
+📫 ### How to reach me:<br> asfandijazmalik@gmail.com <br>
