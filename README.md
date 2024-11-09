@@ -1,7 +1,7 @@
 👋 Hi, I’m @AsfandIjazMalik <br>
 😄 Pronouns: He/Him<br>
 
-### Educational Background <br>
+## Educational Background <br>
 I am an IT professional with a Bachelor's in Information Technology (Honors) from Gujrat University.
 <br>
 ### Core Skills <br>
