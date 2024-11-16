@@ -4,7 +4,7 @@
 ### Educational Background <br>
 I am an IT professional with a Bachelor's in Information Technology (Honors) from Gujrat University. <br>
 ### Core Skills <br>
-I have strong core Python skills honed through hands-on projects, focusing on practical applications and problem-solving.<br>
+I have strong Python Programming or Core Python skills honed through hands-on projects, focusing on practical applications and problem-solving.<br>
 ### Passion for Machine Learning & AI <br>
 I’m passionate about machine learning and AI and aim to develop impactful Python applications for automation and predictive modeling.<br>
 ### Career Goals <br>
