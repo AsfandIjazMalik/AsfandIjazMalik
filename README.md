@@ -2,7 +2,7 @@
 😄 Pronouns: He/Him<br>
 
 ### Educational Background <br>
-I am an IT professional with a Bachelor's in Information Technology (Honors) from Gujrat University. <br>
+I am an IT professional with a Bachelor's in Information Technology (Honors 4 Year Degree) from Gujrat University. <br>
 ### Core Skills <br>
 I have strong Python Programming or Core Python skills honed through hands-on projects, focusing on practical applications and problem-solving.<br>
 ### Passion for Machine Learning & AI <br>
